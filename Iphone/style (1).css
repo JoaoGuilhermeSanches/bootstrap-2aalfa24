@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+}
+
+.navbar-brand{
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.navbar-brand img{
+    width: 150px;
+}
+
+h2{
+    color: black;
+    padding-top: 30px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    background-color: #5a5a5a;
+    margin-top: 50px;
+    color: #fff;
+}
+
+footer ul li {
+    list-style: none;
+}
+
+footer ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+
+
